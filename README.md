@@ -1,1 +1,1 @@
-# docs-help
+https://docs.arckr.com/help/
